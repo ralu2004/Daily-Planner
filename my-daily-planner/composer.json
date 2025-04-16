@@ -1,0 +1,17 @@
+{
+    "name": "raluca.adam/my-daily-planner",
+    "description": "Interactive daily planner",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RalucaAdam\\MyDailyPlanner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raluca Adam"
+        }
+    ],
+    "require": {}
+}
