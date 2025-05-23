@@ -48,7 +48,7 @@ This application follows the **Model-View-Controller (MVC)** pattern to keep the
    ```bash
    psql -U your_username -d daily_planner -f path/to/schema.sql
    ```
-   3. **Configure the database connection:**
+3. **Configure the database connection:**
    ```php
    <?php
     $db_host = 'localhost';
@@ -66,7 +66,7 @@ This application follows the **Model-View-Controller (MVC)** pattern to keep the
     }
     ?>
     ```
-   4. **Run the application:**
+4. **Run the application:**
    Host the project on a local server with PHP support (e.g., Apache, Nginx) and open it in your browser.
 
 ## License
